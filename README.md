@@ -15,4 +15,4 @@ or
 npm init
 npm install
 npm run dev
-npm run build / build:preview
+npm run build
